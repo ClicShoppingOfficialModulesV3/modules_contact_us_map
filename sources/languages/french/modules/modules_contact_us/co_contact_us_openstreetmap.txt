@@ -1,0 +1,5 @@
+module_contact_us_open_street_map_title = Souhaitez-vous afficher une carte géolocalisée de votre entreprise ?
+module_contact_us_open_street_map_description = Afficher une carte géolocalisée de votre entreprise
+
+text_open_street_map_annexe = Annexe
+text_open_street_map_annexe1 = Annexe 1

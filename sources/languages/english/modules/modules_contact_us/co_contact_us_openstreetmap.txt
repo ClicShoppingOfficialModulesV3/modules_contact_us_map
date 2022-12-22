@@ -1,0 +1,5 @@
+module_contact_us_open_street_map_title = Do you want to display a geolocalised map of your company ?
+module_contact_us_open_street_map_description = Display a geolocalised map of your company
+
+text_open_street_map_annexe = Company
+text_open_street_map_annexe1 = Company 1
